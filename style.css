@@ -1,3 +1,12 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+img{
+    width: 100;
+}
+
 h1 {
     text-align: center;
     color: rgb(236, 235, 167);
@@ -5,8 +14,7 @@ h1 {
 }
 
 body{
-    background-color:rgb(95, 65, 21) ;
-    background: radial-gradient);
+    background-color:rgb(95, 65, 21) ;  
 }
 
 div{
