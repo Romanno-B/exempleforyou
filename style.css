@@ -5,12 +5,13 @@ h1 {
 }
 
 body{
-    
+    background-color:rgb(95, 65, 21) ;
+    background: radial-gradient);
 }
 
 div{
     background-color: rgb(214, 186, 107);
-    font-size: 35px;
+    font: 35px;
     text-align: center;
 
 }
