@@ -51,8 +51,8 @@ h1 {
 
 
 body {
-    background: rgb(63, 94, 251);
-    background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
+    background: rgb(206, 193, 120);
+    background: radial-gradient(circle, rgb(190, 166, 97), rgb(196, 178, 80) 100%);
 }
 
 
